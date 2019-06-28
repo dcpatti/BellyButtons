@@ -1,0 +1,1 @@
+web: gunicorn gwarl-belly-button.app:app
